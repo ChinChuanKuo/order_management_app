@@ -1,0 +1,125 @@
+{
+  "badge": {
+    "data": {
+      "badge": 4
+    }
+  },
+  "notice": {
+    "data": [
+      {
+        "id": "123",
+        "name": "Hello world",
+        "subname": "Hello worldHello worldHello world",
+        "timeago": "12 hours",
+        "url": "https://images.unsplash.com/photo-1551963831-b3b1ca40c98e?w=164&h=164&fit=crop&auto=format"
+      },
+      {
+        "id": "123",
+        "name": "Hello world",
+        "subname": "Hello worldHello worldHello world",
+        "timeago": "12 hours",
+        "url": "https://images.unsplash.com/photo-1551963831-b3b1ca40c98e?w=164&h=164&fit=crop&auto=format"
+      },
+      {
+        "id": "123",
+        "name": "Hello world",
+        "subname": "Hello worldHello worldHello world",
+        "timeago": "12 hours",
+        "url": "https://images.unsplash.com/photo-1551963831-b3b1ca40c98e?w=164&h=164&fit=crop&auto=format"
+      },
+      {
+        "id": "123",
+        "name": "Hello world",
+        "subname": "Hello worldHello worldHello world",
+        "timeago": "12 hours",
+        "url": "https://images.unsplash.com/photo-1551963831-b3b1ca40c98e?w=164&h=164&fit=crop&auto=format"
+      },
+      {
+        "id": "123",
+        "name": "Hello world",
+        "subname": "Hello worldHello worldHello world123123",
+        "timeago": "12 hours",
+        "url": "https://images.unsplash.com/photo-1551963831-b3b1ca40c98e?w=164&h=164&fit=crop&auto=format"
+      },
+      {
+        "id": "123",
+        "name": "Hello world",
+        "subname": "Hello worldHello worldHello world",
+        "timeago": "12 hours",
+        "url": "https://images.unsplash.com/photo-1551963831-b3b1ca40c98e?w=164&h=164&fit=crop&auto=format"
+      },
+      {
+        "id": "123",
+        "name": "Hello world",
+        "subname": "Hello worldHello worldHello world",
+        "timeago": "12 hours",
+        "url": "https://images.unsplash.com/photo-1551963831-b3b1ca40c98e?w=164&h=164&fit=crop&auto=format"
+      }
+    ]
+  },
+  "account": {
+    "data": {
+      "tokenid": "0064d8bf-4776-4c01-905c-9ab5c6d29cfd",
+      "clientid": "0064d8bf-4776-4c01-905c-9ab5c6d29cfa",
+      "name": "ChinChuanKuo"
+    }
+  },
+  "store": {
+    "data": [
+      {
+        "id": "0064d8bf-4776-4c01-905c-9ab5c6d29cfa",
+        "name": "456"
+      },
+      {
+        "id": "0064d8bf-4776-4c01-905c-9ab5c6d29cfb",
+        "name": "456"
+      },
+      {
+        "id": "0064d8bf-4776-4c01-905c-9ab5c6d29cfc",
+        "name": "456"
+      },
+      {
+        "id": "0064d8bf-4776-4c01-905c-9ab5c6d29cfd",
+        "name": "456"
+      }
+    ]
+  },
+  "main": {
+    "data": [
+      {
+        "id": "123",
+        "name": "Name",
+        "align": "left",
+        "width": "60%"
+      },
+      {
+        "id": "345",
+        "name": "Price",
+        "align": "right",
+        "width": "auto"
+      },
+      {
+        "id": "456",
+        "name": "Quantity",
+        "align": "right",
+        "width": "auto"
+      },
+      {
+        "id": "789",
+        "name": "",
+        "align": "right",
+        "width": "15%"
+      }
+    ]
+  },
+  "menu": {
+    "data": [
+      {
+        "id": "6ff9b4e6-3f93-47c7-b2c4-a6b6e1679c74",
+        "name": "123",
+        "price": 0,
+        "quantity": 0
+      }
+    ]
+  }
+}
